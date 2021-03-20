@@ -2,7 +2,7 @@
 
 A basic twitch clone (app) made with react-native, styled-components.
 
-![screen01](./src/assets/images/twitchclone_1.png)
+![screen01](./src/assets/images/twtichclone_1.png)
 
 ![screen02](./src/assets/images/twitchclone_2.png)
 
